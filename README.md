@@ -1,16 +1,34 @@
-# React + Vite
+🌦️ Weather App — Part of the Daily Dashboard Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React + Vite weather application that provides real-time weather updates for any city in the world.
+It is one component of my larger Daily Dashboard project — a personal productivity platform that integrates daily tools like weather updates, motivational quotes, and personal mood tracking.
 
-Currently, two official plugins are available:
+The app uses the OpenWeatherMap API to fetch real-time data and displays temperature, humidity, and weather conditions with a dynamic video background for an engaging user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+🌍 Search weather by city name
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🌤️ Real-time weather data powered by OpenWeatherMap API
 
-## Expanding the ESLint configuration
+🎬 Animated video background
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💧 Displays temperature, humidity, and "feels like" metrics
+
+💡 Responsive design built with Tailwind CSS
+
+⚙️ Developed with React, Vite, and Axios
+
+🧭 Part of a larger Daily Dashboard system for personal productivity
+
+🧩 Technologies Used
+
+React.js
+
+Vite
+
+Tailwind CSS
+
+Axios
+
+OpenWeatherMap API
